@@ -8,11 +8,11 @@ Our solution is to create a Mobile Application which is a on-stop solution from 
 
 The submission includes 
 
-1.	PROJECT VIDEO SUBMISSION GOOGLE DRIVE LINK
+1.	Concept Note Submission
 2.	PPT
 Power Point Presentation used in video. Further explanation of concepts and solution are present in the PPT. Please note that all the calculations and visualizations are using dataset provided during Hackthon period, Google Maps data, Open source data available and estimates made to demonstrate the example. The implementation of the project depends on additional data being made available to us. 
 
-3.	Details regarding features, additional data parameters to be made available, service providers and benefits to them through the proposed app attached in the form of PDF file containing spreadsheet  
-4.	Excel file with details regarding all feature calculations
-5.	LINK TO FIGMA PROJECT
+3.	Service Providers. pdf - Details regarding features, additional data parameters to be made available, service providers and benefits to them through the proposed app attached in the form of PDF file containing spreadsheet  
+4.	Accesibility score (1) - Excel file with details regarding all feature calculations
+
 
