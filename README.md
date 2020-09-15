@@ -4,6 +4,8 @@ The problem statement was : You are required to develop an interactive tool or p
 crowdsourced data, local knowledge, and elements of social media platforms to create the
 “Bengaluru Connectivity Index.” 
 
+Our solution is to create a Mobile Application which is a on-stop solution from the commuter end as well as transit service provider end
+
 The submission includes 
 
 1.	PROJECT VIDEO SUBMISSION GOOGLE DRIVE LINK
